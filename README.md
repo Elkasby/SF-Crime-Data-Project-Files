@@ -7,7 +7,8 @@ Check if data is produced with kafka-console-consumer
    <img src='kafka.png'/>
    
    
-Spark UI while executing looks like this:
+Spark while executing looks like this:
+    <img src='spark3.png'/>
    <img src='spark1.png'/>
     <img src='spark2.png'/>
 
